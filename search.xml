@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/02/06/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>从一个LSPosed用户的角度浅谈LSPosed停止维护这件事</title>
+    <url>/2024/01/18/%E4%BB%8E%E4%B8%80%E4%B8%AALSPosed%E7%94%A8%E6%88%B7%E7%9A%84%E8%A7%92%E5%BA%A6%E6%B5%85%E8%B0%88LSPosed%E5%81%9C%E6%AD%A2%E7%BB%B4%E6%8A%A4%E8%BF%99%E4%BB%B6%E4%BA%8B/</url>
+    <content><![CDATA[<ul>
+<li>一月八日，被称作机圈最黑暗的一天</li>
+<li>原因是这天很多开源项目都停止停止维护并归档了</li>
+<li>其中包括LSPosed团队维护的所有项目（LSPosed , LSPatch , Zygisk Next , Shamiko），搞机助手 • R等等</li>
+<li>KernelSU作者归档示意（不是停更，年后继续更新）</li>
+<li>但是今天我就不说别的了，主要是浅谈一下LSPosed团队停止维护这件事</li>
+<li>（以下内容仅为个人观点，不喜勿喷）</li>
+<li>这件事的起因还得从游戏说起</li>
+<li>据说是因为一些游戏开挂玩家使用LSPosed团队维护的东西（诸如Shamiko，LSPosed一类）后账号被封，转而来辱骂LSPosed团队，长时间的辱骂下LSPosed团队厌倦了这些，才停止维护的</li>
+<li>事实上起因的说法也有不少，这里我就不多说了</li>
+<li>这么说我有点帮凶的感觉，毕竟我是帮过开挂玩家刷机的</li>
+<li>网上也有人说是Kitsune Mask的维护者HuskyDG干了什么导致LSPosed团队停止维护的，不过LSPosed团队已经在TG的LSPosed Archives群里辟谣了，不是HuskyDG的事</li>
+<li>不过这些纠纷我也就不提了</li>
+<li>那些开挂的游戏玩家可能没什么感觉，因为其中大多数都是Kitsune Mask用户</li>
+<li>但是我是KernelSU + Zygisk Next + LSPosed + Shamiko用户，受影响最大</li>
+<li>一想到之前帮游戏用户刷机，有种遭报应的感觉</li>
+<li>但事实上我本人已经很长时间没接触任何游戏了</li>
+<li>事情已经发生，对于我这么一个旁观者来说已经很难挽回了</li>
+<li>只能希望在接下来能有人顶替这个位置吧</li>
+<li>机圈的天已经塌了一半了</li>
+</ul>
+]]></content>
+      <categories>
+        <category>玩机</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>我为什么搭建这个博客？</title>
+    <url>/2024/01/14/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%90%AD%E5%BB%BA%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%EF%BC%9F/</url>
+    <content><![CDATA[<ul>
+<li>我为什么搭建这个博客？</li>
+<li>对啊为什么（bushi）</li>
+<li>事实上前段时间帮流然搭博客的时候我就萌生这个想法了</li>
+<li>不过我又没钱整服务器不是</li>
+<li>所以我就盯上了github pages</li>
+<li>这活反正我也不是第一次干了，所以就做出来了</li>
+<li>那我为啥要写这篇博文呢？</li>
+<li>显而易见，搭了不能不用，所以水一篇（）</li>
+</ul>
+]]></content>
+      <categories>
+        <category>闲谈</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>折腾评论也能这么折磨人？---搭建Twikoo评论系统折腾Netlify与mongodb的过程</title>
+    <url>/2024/02/04/%E6%8A%98%E8%85%BE%E8%AF%84%E8%AE%BA%E4%B9%9F%E8%83%BD%E8%BF%99%E4%B9%88%E6%8A%98%E7%A3%A8%E4%BA%BA%EF%BC%9F-%E6%90%AD%E5%BB%BATwikoo%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E6%8A%98%E8%85%BENetlify%E4%B8%8Emongodb%E7%9A%84%E8%BF%87%E7%A8%8B/</url>
+    <content><![CDATA[<ul>
+<li>评论系统那么多，总有一个好用的吧？</li>
+<li>至少我以前是这么觉得的</li>
+<li>一开始用的Waline，搭配Vercel，还是不难的</li>
+<li>但是好不容易折腾完了，一关梯子，就用不了了</li>
+<li>我寻思Waline，Vercel不用梯子都能访问，问题出在哪呢？</li>
+<li>直到我发现Vercel网站是.com顶级域名而得到的server_url是.app顶级域名我才明白咋回事</li>
+<li>（去**的天朝网络环境）</li>
+<li>相信我说的各位都听懂了，我就不再多解释了</li>
+<li>我就摆烂摆了三天（）</li>
+<li>直到昨晚有人提起评论系统的事，我才下定决心弄这东西</li>
+<li>然后又折腾gitalk</li>
+<li>之后才想起来这东西要github，因为“天朝网络环境”，还是不一定能用</li>
+<li>于是又换Twikoo</li>
+<li>到这我头都大了（）</li>
+<li>看了看部署方法，国内可以用HuggingFace</li>
+<li>所以我就折腾了半天，结果发现还是访问不了。。。</li>
+<li>没办法，又换Netlify，终于是可以了</li>
+<li>但到这还没结束，我还得帮流然弄</li>
+<li>我让他照着官方文档自己搞，结果那小子弄了半天卡第二步了</li>
+<li>因为他没linux基础，弄个静态博客都是我一点一点教的，我也是见怪不怪了</li>
+<li>帮他弄了hexo博客＋fluid主题后就又开始帮他弄Twikoo</li>
+<li>弄了半天，不知为何评论老是报错 0</li>
+<li>后来我决定把他的地址放到我的上边确认到底是云端问题还是前端问题</li>
+<li>结果一对比，发现流然的地址上我少加了个&#x2F;.netlify&#x2F;functions&#x2F;twikoo</li>
+<li>活了十来年了，脑子不灵光了（）</li>
+<li>最后好不容易是给他弄好，这事才告一段落</li>
+<li>不说了，补作业去了</li>
+</ul>
+]]></content>
+      <categories>
+        <category>网站</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>编译K-Nel的过程中，我都经历了啥？</title>
+    <url>/2024/01/22/%E7%BC%96%E8%AF%91K-Nel%E7%9A%84%E8%BF%87%E7%A8%8B%E4%B8%AD%EF%BC%8C%E6%88%91%E9%83%BD%E7%BB%8F%E5%8E%86%E4%BA%86%E5%95%A5%EF%BC%9F/</url>
+    <content><![CDATA[<ul>
+<li>从上周四开始，我研究内核也有四五天了</li>
+<li>这东西也是让我挺无语的</li>
+<li>一开始懂得不多，没整工具链，装个clang和gcc再搞个源码直接就是make，理所当然的，除了报错也没输出别的了</li>
+<li>后来在bilibili上看到一个人在编译魅蓝note6的lxc-docker内核，我就去找他要内核</li>
+<li>（事实上到这时候已经过去两天了）</li>
+<li>这个大佬也是丝毫不吝啬手机的资源，工具链和源码都给我了</li>
+<li>这时，我才真正开始编译</li>
+<li>（这绝对不是我白白浪费两天时间的理由）</li>
+<li>拿到了工具链和源码，想都没想就编译上了</li>
+<li>出现问题的时候这位大佬也一一解答</li>
+<li>最终，我拿到了自己的第一个内核：K-Nel Release 1.0</li>
+<li>不过那时KernelSU的模块还不能用</li>
+<li>我就翻KernelSU的github issues</li>
+<li>很快，我就找到了解决方法，需要patch一个名为hook.c的文件</li>
+<li>patch后，模块就正常加载了</li>
+<li>这个版本就是K-Nel Release 1.1</li>
+<li>这时距离上周四已经过去三天了</li>
+<li>酷安上一位网友帮我指出了bug</li>
+<li>得，又来活了（其实我还是很感谢这位酷安网友的）</li>
+<li>今天，我修复了这些bug</li>
+<li>怎么修的呢？直接换了个内核</li>
+<li>之前那个大佬给我的内核有问题</li>
+<li>换了个内核全部解决了（没有不尊敬那位大佬的意思，我还是很感谢他的）</li>
+<li>但是模块系统又不工作了</li>
+<li>我又patch了hook.c，没用</li>
+<li>后来自己检查才发现自己patch错地方了</li>
+<li>（无语）</li>
+<li>不过好在我也都修复了</li>
+<li>并且K-Nel M1721也顺利进入了KernelSU非官方支持设备列表中</li>
+<li>在这么一个伟大的项目上留名莫名给我带来一种成就感，感觉这四天值了（）</li>
+<li>总之，先继续更新吧</li>
+</ul>
+]]></content>
+      <categories>
+        <category>玩机</category>
+      </categories>
+  </entry>
+</search>
