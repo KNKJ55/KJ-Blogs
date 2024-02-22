@@ -125,4 +125,35 @@
         <category>玩机</category>
       </categories>
   </entry>
+  <entry>
+    <title>只是vitepress而已，没逝的···折腾vitepress搭建kn官网的那些事</title>
+    <url>/2024/02/22/%E5%8F%AA%E6%98%AFvitepress%E8%80%8C%E5%B7%B2%EF%BC%8C%E6%B2%A1%E9%80%9D%E7%9A%84%C2%B7%C2%B7%C2%B7%E6%8A%98%E8%85%BEvitepress%E6%90%AD%E5%BB%BAkn%E5%AE%98%E7%BD%91%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/</url>
+    <content><![CDATA[<ul>
+<li>那是一个阴天的下午。。。</li>
+<li>算了，不卖关子了</li>
+<li>vitepress我也不是头一次搞了</li>
+<li>至少之前帮流然搞过一次</li>
+<li>那时我倒是没觉得这有多难</li>
+<li>但现在给自己搞的时候却被上传到github难住了</li>
+<li>我也不知道我是咋想的</li>
+<li>我明知道.vitepress&#x2F;dist目录可以直接用，但总研究官方文档的部署，整了半天没整明白，我头都大了</li>
+<li>等我反应过来的时候，已经天黑了</li>
+<li>那是一个阴暗的夜晚。。。</li>
+<li>（bushi）</li>
+<li>咳咳，这不重要，回归正题</li>
+<li>研究官方文档部署的那部分我就不说了</li>
+<li>弄完了之后想搞个域名还搞不了（）</li>
+<li>厚浪域名的记录值不能有特殊符号，但我github组织的名字就有个“-”</li>
+<li>这也直接导致我用不了厚浪域名</li>
+<li>后来换雨云，结果换了好几个了都被标记为诈骗网站墙了</li>
+<li>（去**的天朝网络环境）</li>
+<li>这也就是为啥友链中KJ Network网站还未完善的原因了</li>
+<li>总之，不像再搞第二次了</li>
+<li>啥时候有空再搞域名吧，我得好好歇歇</li>
+</ul>
+]]></content>
+      <categories>
+        <category>网站</category>
+      </categories>
+  </entry>
 </search>
