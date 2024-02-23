@@ -165,7 +165,7 @@
 <li>咱来看一张图<br><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/ssz.png"
+                     data-src="/images/sss/ssz.png"
                       alt="Alt text"
                 ></li>
 <li>（我只是想到了好笑的事）</li>
